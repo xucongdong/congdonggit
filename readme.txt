@@ -3,3 +3,4 @@ This is a test software.
 add a new line.
 append GPL!
 branch test on dev
+conflict on dev
